@@ -1,0 +1,13 @@
+{
+  "name": "marvel-library",
+  "version": "1.0.0",
+  "description": "Хронология фильмов Marvel Cinematic Universe",
+  "homepage": "https://ipodrai.github.io/marvel-library/",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "license": "MIT"
+}

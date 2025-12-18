@@ -1,0 +1,38 @@
+# robots.txt для Библиотеки Marvel
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Указание на Sitemap
+Sitemap: https://ipodrai.github.io/marvel-library/sitemap.xml
+Sitemap: https://ipodrai.github.io/marvel-library/sitemap-movies.xml
+
+# Пауки поисковых систем
+User-agent: Googlebot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+Clean-param: ref /index.html
+Clean-param: utm_source /index.html
+
+# Блокировка AI crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Блокировка агрессивных скраперов
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+# GitHub Pages специфика
+# Host директиву убрали - она не поддерживается на GitHub Pages

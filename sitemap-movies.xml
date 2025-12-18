@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#first_avengers</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/e33e1f96-bb6b-4630-a419-c90af926c7f3/300x450</image:loc>
+            <image:title>Первый мститель (2011)</image:title>
+            <image:caption>Первый фильм в хронологии Marvel</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#capitan_marvel</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/13590f7e-10d8-47eb-9321-c34ce79cd0e6/300x450</image:loc>
+            <image:title>Капитан Марвел (2019)</image:title>
+            <image:caption>Происхождение одного из самых могущественных героев Marvel</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#iron_man</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/bfc06b4c-7d7f-460b-b6c1-3b63c5d7c63b/300x450</image:loc>
+            <image:title>Железный человек (2008)</image:title>
+            <image:caption>Начало Marvel Cinematic Universe</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#iron_man2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/ed4b6bbb-f755-4977-bf33-005d2c30f67f/300x450</image:loc>
+            <image:title>Железный человек 2 (2010)</image:title>
+            <image:caption>Продолжение приключений Тони Старка</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#thor</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/8674c9c7-6ec6-4c90-8642-7b0741d87dac/300x450</image:loc>
+            <image:title>Тор (2011)</image:title>
+            <image:caption>Бог грома из Асгарда</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#avengers</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/972b7f43-9677-40ce-a9bc-02a88ad3919d/300x450</image:loc>
+            <image:title>Мстители (2012)</image:title>
+            <image:caption>Первое объединение супергероев</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#iron_man3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/272776a1-9beb-45a9-8e02-867ba9c7f571/300x450</image:loc>
+            <image:title>Железный человек 3 (2013)</image:title>
+            <image:caption>Завершение трилогии о Железном человеке</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#thor2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/3fff13db-da9a-4c61-b235-a1373c17b882/300x450</image:loc>
+            <image:title>Тор 2: Царство тьмы (2013)</image:title>
+            <image:caption>Тор против темных эльфов</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#captain_america2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/c02ef344-c355-4c77-a28d-e0d7d9a771df/300x450</image:loc>
+            <image:title>Первый мститель: Другая война (2014)</image:title>
+            <image:caption>Капитан Америка против Зимнего солдата</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#guardians</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/2e6ab20b-7cf1-49e7-b465-bd5a71c13fa3/300x450</image:loc>
+            <image:title>Стражи Галактики (2014)</image:title>
+            <image:caption>Космические приключения неожиданных героев</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#avengers_age_ultron</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/881abd28-a361-4a23-916a-3e2cc781ba83/300x450</image:loc>
+            <image:title>Мстители: Эра Альтрона (2015)</image:title>
+            <image:caption>Мстители против искусственного интеллекта</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#antman</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/427ee275-67c0-4a37-b10a-66ca1e4197d5/300x450</image:loc>
+            <image:title>Человек-муравей (2015)</image:title>
+            <image:caption>Герой, меняющий размеры</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#captain_america3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/ff7cfbfe-2ed6-4e54-a249-e33c71cbfda1/300x450</image:loc>
+            <image:title>Первый мститель: Противостояние (2016)</image:title>
+            <image:caption>Гражданская война среди Мстителей</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#doctor_strange</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/bb966b79-5b10-485d-88d7-fb6aeb79b185/300x450</image:loc>
+            <image:title>Доктор Стрэндж (2016)</image:title>
+            <image:caption>Верховный маг Marvel</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#guardians2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/ea4ff704-113d-46de-b6b4-03176ac95118/300x450</image:loc>
+            <image:title>Стражи Галактики. Часть 2 (2017)</image:title>
+            <image:caption>Продолжение космических приключений</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#spiderman_homecoming</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/51bf8584-2863-4412-9627-a3dca16c5c4d/300x450</image:loc>
+            <image:title>Человек-паук: Возвращение домой (2017)</image:title>
+            <image:caption>Человек-паук в MCU</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#thor3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/614af17f-82ab-4ba7-b614-adf5c81f68c4/300x450</image:loc>
+            <image:title>Тор: Рагнарёк (2017)</image:title>
+            <image:caption>Тор на планете Сакаар</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#black_pantera</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/84419b55-2d11-4fe1-b082-c26df2d82f08/300x450</image:loc>
+            <image:title>Черная Пантера (2018)</image:title>
+            <image:caption>Король Ваканды</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#avengers_infinity_war</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/af92d310-4ae5-4daa-b42c-5bcc380c2e6e/300x450</image:loc>
+            <image:title>Мстители: Война бесконечности (2018)</image:title>
+            <image:caption>Битва с Таносом</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#antman2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/6c56fc51-4e6e-4d84-b37b-4bddd5f71a26/300x450</image:loc>
+            <image:title>Человек-муравей и Оса (2018)</image:title>
+            <image:caption>Возвращение Скотта Лэнга</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#avengers_final</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/ae22f153-9715-41bb-adb4-f648b3e16092/300x450</image:loc>
+            <image:title>Мстители: Финал (2019)</image:title>
+            <image:caption>Завершение саги о Бесконечности</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#spiderman_farfromhome</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/5cadd28b-996e-4224-ab98-f7aed64aa56c/300x450</image:loc>
+            <image:title>Человек-паук: Вдали от дома (2019)</image:title>
+            <image:caption>Европейские приключения Питера Паркера</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#black_widow</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/bf8eb79b-565e-4525-80f8-fd0633c747ce/300x450</image:loc>
+            <image:title>Черная вдова (2021)</image:title>
+            <image:caption>Прошлое Наташи Романофф</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#shang_chi</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/bb806dff-fac0-4459-ab51-1192e07f5da6/300x450</image:loc>
+            <image:title>Шан-Чи и легенда десяти колец (2021)</image:title>
+            <image:caption>Новый герой Marvel</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#eternals</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/87316df7-dd88-48ae-bf71-2a811d96b693/300x450</image:loc>
+            <image:title>Вечные (2021)</image:title>
+            <image:caption>Древние защитники Земли</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#spiderman_nowayhome</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/731c4031-7389-44f4-8c15-f9f4e3b0ed90/300x450</image:loc>
+            <image:title>Человек-паук: Нет пути домой (2021)</image:title>
+            <image:caption>Мультивселенная Человека-паука</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#doctor_strange2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/18bc685e-9c23-4b97-9cc3-8a2b17a0c9ad/300x450</image:loc>
+            <image:title>Доктор Стрэндж: В мультивселенной безумия (2022)</image:title>
+            <image:caption>Путешествие по мультивселенной</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#thor4</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/2d1633d4-63e8-473f-9797-1f410f9cc29b/300x450</image:loc>
+            <image:title>Тор: Любовь и гром (2022)</image:title>
+            <image:caption>Тор и Джейн Фостер</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#black_pantera2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/70c20368-a412-43d2-8646-3d3529ce8a7a/300x450</image:loc>
+            <image:title>Чёрная Пантера: Ваканда навеки (2022)</image:title>
+            <image:caption>Намьор и подводное королевство</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#antman3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/a5f83fbb-002a-48f0-87e1-e1809d2f58c7/300x450</image:loc>
+            <image:title>Человек-муравей и Оса: Квантомания (2023)</image:title>
+            <image:caption>Квантовое измерение</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#guardians3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/7c39a0ca-7319-4442-a412-d3127523f6c0/300x450</image:loc>
+            <image:title>Стражи Галактики. Часть 3 (2023)</image:title>
+            <image:caption>Завершение трилогии</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#capitan_marvel2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/10835644/313d3c35-89b1-4a64-9d34-51737279ad74/300x450</image:loc>
+            <image:title>Капитан Марвел 2 (2023)</image:title>
+            <image:caption>Марвел, Рамбо и мисс Марвел</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#venom</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/2e5d2b8c-46f7-4223-a3da-b6d7c4764c44/300x450</image:loc>
+            <image:title>Веном (2018)</image:title>
+            <image:caption>Симбиот из вселенной Sony</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#venom2</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/f592c82b-3c83-437c-b4c2-7b4284720004/300x450</image:loc>
+            <image:title>Веном 2 (2021)</image:title>
+            <image:caption>Карнаж и Веном</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#venom3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/10835644/ee62226e-5f8b-45d1-a490-c9c9ae6c3a45/300x450</image:loc>
+            <image:title>Веном: Последний танец (2024)</image:title>
+            <image:caption>Финальная часть трилогии</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://ipodrai.github.io/marvel-library/#deadpool3</loc>
+        <lastmod>2024-12-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://avatars.mds.yandex.net/get-kinopoisk-image/4829891/e8c8a5c7-7cb8-46af-9df4-ee0d6e81c141/300x450</image:loc>
+            <image:title>Дэдпул и Росомаха (2024)</image:title>
+            <image:caption>Встреча двух культовых героев</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>

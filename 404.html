@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Страница не найдена - Библиотека Marvel</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0c0c0c 0%, #1a1a2e 100%);
+            color: white;
+            text-align: center;
+            padding: 50px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .error-code {
+            font-size: 120px;
+            color: #e62429;
+            font-weight: bold;
+            margin: 0;
+        }
+        .error-message {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .back-link {
+            display: inline-block;
+            background: #e62429;
+            color: white;
+            padding: 15px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 30px;
+            transition: transform 0.3s;
+        }
+        .back-link:hover {
+            transform: translateY(-3px);
+        }
+    </style>
+</head>
+<body>
+    <div class="error-code">404</div>
+    <h1 class="error-message">Страница не найдена</h1>
+    <p>Возможно, вы перешли по устаревшей ссылке или страница была перемещена.</p>
+    <a href="/" class="back-link">Вернуться на главную</a>
+</body>
+</html>
